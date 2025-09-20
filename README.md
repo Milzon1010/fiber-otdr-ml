@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.x-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 # Fiber OTDR ML
 
